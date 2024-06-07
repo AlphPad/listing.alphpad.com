@@ -1,12 +1,12 @@
 {
-    "contractId": "2b8692cf1e5e7111c34bc84900c88efe68de2f2b7a1f13f4094082679e92c400",
-    "owner": "1DrDyTr9RpRsQnDnXo2YRiPzPW4ooHX5LLoqXrqfMrpQH",
-    "name": "WL With Vest",
-    "token": "apad",
+    "contractId": "7144f073dabf1c323413e4ebf956ab7a0908d45181a8657838511aab494f8600",
+    "owner": "1DZ85j5cYfm1od3Lz8XAs91sByNvvrUxR1ZkEg4ByeXUC",
+    "name": "RefundSaleProject",
+    "token": "RFSP",
     "logo": "logo.jpg",
     "banner": "banner.jpg",
-    "shortDesc": "whitelist sale",
-    "saleType": "flatprice-whitelist-v2",
+    "shortDesc": "This sale should fail, bid a small amount only to test the claim refund process",
+    "saleType": "flatprice",
     "twitter": "https://twitter.com/alphpad",
     "telegram": "https://t.me/alphpad",
     "discord": "https://discord.gg/pWy7Y6ase2",
@@ -17,6 +17,9 @@
     "docs": "https://docs.alphpad.com/",
     "website": "https://alphpad.com/",
     "restrictedCountries": [
+        "USA",
+        "CHN",
+        "KOR"
     ],
     "details": [
         {
@@ -24,10 +27,5 @@
             "fileUrl": "about.md"
         }
     ],
-    "whitelist": {
-        "startDate": "2024-04-14T08:00:00.000Z",
-        "endDate": "2024-04-14T10:00:00.000Z",
-        "inputs": [],
-        "note": "Test Whitelist"
-    }
+    "whitelist": {}
 }
