@@ -1,8 +1,8 @@
 {
-    "contractId": "b7e3a2a8ac40c6c6d6b546cbc0df3afa37c4736456fa571ea2d9f6927dba3c00",
-    "owner": "1DZ85j5cYfm1od3Lz8XAs91sByNvvrUxR1ZkEg4ByeXUC",
-    "name": "Sale of token with 12 decimals with whitelist",
-    "token": "12dt",
+    "contractId": "2b8692cf1e5e7111c34bc84900c88efe68de2f2b7a1f13f4094082679e92c400",
+    "owner": "1DrDyTr9RpRsQnDnXo2YRiPzPW4ooHX5LLoqXrqfMrpQH",
+    "name": "WL With Vest",
+    "token": "apad",
     "logo": "logo.jpg",
     "banner": "banner.jpg",
     "shortDesc": "whitelist sale",
