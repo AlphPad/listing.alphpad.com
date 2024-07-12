@@ -1,0 +1,18 @@
+{
+    "contractId": "9a5dc521600035f6c6c584ea49597f6870c08e2fea12df8afa1ea7bdbe6f7300",
+    "owner": "255Xq2WaPzM1HXT1z9sztirV6o9dANGnSWietx42ZPCU7",
+    "name": "0XBIIGBANG",
+    "token": "0XB",
+    "logo": "logo.png",
+    "banner": "banner.png",
+    "shortDesc": "XBIIGBANG is the MEME reference for linking the community on the Alephium blockchain.",
+    "saleType": "flatprice",
+    "twitter": "https://x.com/n_cla_",
+    "email": "nclausse@hotmail.fr",
+    "details": [
+        {
+            "title": "About",
+            "fileUrl": "about.md"
+        }
+
+   }
